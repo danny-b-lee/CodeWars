@@ -26,11 +26,11 @@ your progress and level up, as well as view top solutions that get upvoted by th
 * [You're a square!](C++/Youre_a_Square.cpp) - 7 kyu
 * [Multiply](C++/Multiply.cpp) - 8 kyu
 
-### Java
+### Java:
 
 * 
 
-### Python
+### Python:
 
 * 
 
