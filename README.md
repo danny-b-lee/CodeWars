@@ -16,7 +16,15 @@ your progress and level up, as well as view top solutions that get upvoted by th
 
 ### C++:
 
-* 
+* [Simple Pig Latin](C++/Simple Pig Latin) - 5 kyu
+* [RGB To Hex Conversion](C++/RGB To Hex Conversion) - 5 kyu
+* [Mumbling](C++/Mumbling) - 6 kyu
+* [Duplicate Encoder](C++/Duplicate Encoder) - 6 kyu
+* [Find The Parity Outlier](C++/Find The Parity Outlier) - 6 kyu
+* [Sum of two lowest positive integers](C++/Sum of two lowest positive integers) - 6 kyu
+* [Who likes it?](C++/Who likes it?) - 7 kyu
+* [You're a square!](C++/You're a square!) - 7 kyu
+* [Multiply](C++/Multiply) - 8 kyu
 
 ### Java
 
